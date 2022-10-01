@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background-color:black;
+    color: white;
+    font font-size: 15px;
+    text-align: center;
+}
+.navigation{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(250, 221, 221);
+    color: rgb(10, 9, 9);
+    font font-size: 15px;
+    text-align: center;
+}
+.banner{
+    width: 100%;
+    height: 70px;
+    background-color:rgb(233, 245, 207);
+    color: rgb(12, 11, 11);
+    font font-size: 15px;
+    text-align: center;
+}
+.main_one{
+overflow: hidden;
+    width: 30%;
+    height: 600px;
+    background-color:rgb(215, 201, 201);
+    color: rgb(14, 11, 11);
+    font font-size: 15px;
+    text-align: center;float: left;
+}
+.one{
+    width: 100%;
+    height: 50%;
+    background-color:rgb(206, 244, 183);
+    color: rgb(15, 11, 11);
+    font font-size: 15px;
+    text-align: center;
+}
+.two{
+    width: 100%;
+    height: 50%;
+    background-color:rgb(189, 245, 155);
+    color: rgb(15, 11, 11);
+    font font-size: 15px;
+    text-align: center;
+}
+.main_two{
+overflow: hidden;
+width: 70%;
+height: 600px;
+background-color:rgb(183, 228, 244);
+color: rgb(15, 11, 11);
+font font-size: 15px;
+text-align: center;
+float: :right;
+}
+.content{
+    overflow: hidden;
+    width: 100%;
+    height: 550px;
+    background-color:rgb(205, 153, 153);
+    color: rgb(17, 13, 13);
+    font font-size: 15px;
+    text-align: center;
+}
+.content_1{
+    width: 70%;
+    height: 550px;
+    background-color:rgb(143, 160, 159);
+    color: rgb(17, 13, 13);
+    font font-size: 15px;
+    text-align: center;
+    float: left;
+}
+.extra{
+    overflow: hidden;
+    width: 30%;
+    height: 550px;
+    background-color:rgb(96, 78, 78);
+    color: rgb(17, 13, 13);
+    font font-size: 15px;
+    text-align: center;
+    float: :right;
+}
+.information{
+    width: 100%;
+    height: 33.3%;
+    background-color:rgb(178, 177, 137);
+    color: rgb(17, 13, 13);
+    font font-size: 15px;
+    text-align: center; 
+}
+.ads_1{
+    width: 100%;
+    height: 33.3%;
+    background-color:rgb(142, 131, 83);
+    color: rgb(17, 13, 13);
+    font font-size: 15px;
+    text-align: center;   
+}
+.ads_2{
+    width: 100%;
+    height: 33.3%;
+    background-color:rgb(199, 191, 150);
+    color: rgb(17, 13, 13);
+    font font-size: 15px;
+    text-align: center;   
+}
+.article{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(86, 85, 74);
+    color: rgb(12, 9, 9);
+    font font-size: 15px;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    height: 70px;
+    background-color:rgb(10, 8, 8);
+    color: white;
+    font font-size: 15px;
+    text-align: center;
+}
